@@ -1,0 +1,9 @@
+:root {
+  --primary: #FFB7DD;
+  --primary-text: #1a1a1a;
+  --secondary: #ff1dec;
+  --secondary-text: #ffffff;
+  /* --accent: #505050; */
+  --accent: #505050;
+  --accent-text: #ffffff;
+}

@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xeF1Bd1Bd82CeEFF7BBE69f145EEFe52DD9B0A38E",
+  "SCAN_LINK": "https://etherscan.io/address/0xef1bd1bd82ceeff7bbe69f145eefe52dd9b0a38E",
+  "TWITTER_LINK": "https://twitter.com/cyberaipunk",
+  "OPENSEA_LINK": "https://",
+  "NETWORK": {
+    "NAME": "mainnet",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "CyberAIpunk",
+  "SYMBOL": "CAP",
+  "MAX_SUPPLY": 1111,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 120000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
